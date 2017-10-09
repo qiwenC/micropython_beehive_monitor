@@ -37,6 +37,5 @@
 1. If the device cannot be recognised by the computer (shows 'Found 0 serialports' on the Atom command line), 
 try to adjust the position of the wire for better connection. If not working, restart the computer. (Change another cable) 
 
-* Under Mac OS system
 * Do not pull out and re-plug the USB cable all they time. It will cause the USB socket on the board loose, which 
 makes it hard to connect.
