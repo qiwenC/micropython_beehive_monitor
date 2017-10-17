@@ -9,9 +9,11 @@
 ## Getting Start
 
 1. Download PublishMsg folder 
-2. Open Atom Pymakr Plugin ( Installtion and configuration of Pymakr Plugin is in README file)
+2. Open Atom Pymakr Plugin ( Installtion and configuration of Pymakr Plugin is in Instalation, 
+settings and configuration file)
 3. Add PublishMsg project to Pymakr
-4. Modify the code below in main.py to your own details. (Setting of Adafruit is in README file)
+4. Modify the code below in main.py to your own details. (Setting of Adafruit is in Instalation, 
+settings and configuration file)
 
 5. Synchronize the project to the Pytrack
 
